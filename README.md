@@ -1,3 +1,5 @@
+This is for an application. Looking for all the arma scripts? https://github.com/julius-idk/Arma-3-Scripts
+
 # Arma 3 – Simple Quad Airdrop Script (SQF)
 
 **Funktion** Per Tastenkombi **CTRL + O** kann jeder Spieler ein **Quad** anfordern. Es wird per **Fallschirm** abgeworfen, ein **Kartenmarker** hilft beim Finden, und nach Nutzung räumt sich alles wieder auf. **Cooldown:** 5 Minuten pro Spieler.
