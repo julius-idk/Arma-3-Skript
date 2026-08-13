@@ -1,4 +1,4 @@
-(This is for an application. Looking for all the arma scripts? https://github.com/julius-idk/Arma-3-Scripts)
+This is for an application. Looking for all the arma scripts? https://github.com/julius-idk/Arma-3-Scripts
 
 # Arma 3 – Simple Quad Airdrop Script (SQF)
 
